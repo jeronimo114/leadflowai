@@ -1,0 +1,256 @@
+{
+  "metadata": {
+    "title": "LeadFlow AI - Stop Losing Leads. Start Closing Deals.",
+    "description": "AI-powered lead response and nurturing automation for agencies and B2B companies. Respond instantly on WhatsApp and Email."
+  },
+  "nav": {
+    "home": "Home",
+    "features": "Features",
+    "pricing": "Pricing",
+    "about": "About",
+    "contact": "Contact",
+    "bookDemo": "Book a Demo"
+  },
+  "hero": {
+    "headline": "Stop Losing Leads. Start Closing Deals.",
+    "subheadline": "AI-powered automation responds to your leads instantly, qualifies them, and delivers them ready to buy—on WhatsApp and Email.",
+    "cta": "See How It Works",
+    "ctaSecondary": "View Pricing"
+  },
+  "problem": {
+    "title": "The $100K Problem",
+    "stat": "78% of buyers choose the vendor that responds first",
+    "card1": {
+      "title": "Slow Response",
+      "description": "Leads sit in your inbox for hours (or days)"
+    },
+    "card2": {
+      "title": "Weak Follow-up",
+      "description": "Your team follows up once, maybe twice, then moves on"
+    },
+    "card3": {
+      "title": "Lost Revenue",
+      "description": "Hot prospects go cold. Competitors win."
+    }
+  },
+  "solution": {
+    "title": "Your 24/7 Sales Machine",
+    "subtitle": "How it works",
+    "step1": {
+      "title": "Instant Response",
+      "description": "Lead comes in → AI responds in seconds"
+    },
+    "step2": {
+      "title": "Smart Qualification",
+      "description": "AI qualifies with smart questions"
+    },
+    "step3": {
+      "title": "Automated Nurturing",
+      "description": "Sequences keep them engaged"
+    },
+    "step4": {
+      "title": "Sales Handoff",
+      "description": "Qualified lead handed to your team"
+    }
+  },
+  "whyUs": {
+    "title": "Done-For-You, Not DIY Software",
+    "subtitle": "Other tools sell you software you have to learn, configure, and manage yourself. We're different.",
+    "comparison": {
+      "others": "Other Tools",
+      "us": "LeadFlow AI",
+      "point1": {
+        "others": "Months to set up",
+        "us": "Live in days"
+      },
+      "point2": {
+        "others": "You manage everything",
+        "us": "We manage it for you"
+      },
+      "point3": {
+        "others": "Figure it out yourself",
+        "us": "Dedicated support"
+      },
+      "point4": {
+        "others": "Complex dashboards",
+        "us": "Simple, actionable reports"
+      }
+    }
+  },
+  "socialProof": {
+    "title": "Trusted by Growing Agencies",
+    "testimonial1": {
+      "quote": "We went from losing 50% of leads to booking 3x more calls. The ROI was immediate.",
+      "author": "Marketing Agency Director"
+    },
+    "testimonial2": {
+      "quote": "Setup was painless. We were live in a week and the AI handles everything.",
+      "author": "B2B Sales Manager"
+    },
+    "testimonial3": {
+      "quote": "Finally, a solution that actually works. Our response time went from hours to seconds.",
+      "author": "Design Studio Founder"
+    }
+  },
+  "finalCta": {
+    "title": "Ready to stop leaving money on the table?",
+    "subtitle": "Join agencies that close more deals with less effort.",
+    "button": "Book Your Demo"
+  },
+  "features": {
+    "hero": {
+      "title": "Everything You Need to Convert More Leads",
+      "subtitle": "Powerful automation that works 24/7 so you don't have to."
+    },
+    "instantResponse": {
+      "title": "Instant AI Response",
+      "description": "Responds in <5 seconds, 24/7. Speaks their language (EN/ES). Feels human, not robotic."
+    },
+    "smartQualification": {
+      "title": "Smart Qualification",
+      "description": "Asks budget, timeline, needs. Scores leads automatically. Filters out tire-kickers."
+    },
+    "multiChannel": {
+      "title": "Multi-Channel Nurturing",
+      "description": "WhatsApp sequences. Email follow-ups. Triggered by behavior."
+    },
+    "handoff": {
+      "title": "Seamless Handoff",
+      "description": "Notifies your team in real-time. Full conversation history. Lead score & summary."
+    },
+    "analytics": {
+      "title": "Analytics Dashboard",
+      "description": "Response times. Conversion rates. Pipeline visibility."
+    },
+    "integrations": {
+      "title": "Connects with tools you already use",
+      "subtitle": "WhatsApp Business, Gmail, Google Calendar, Zapier, and your favorite CRMs."
+    }
+  },
+  "pricing": {
+    "hero": {
+      "title": "Simple Pricing. Serious Results.",
+      "subtitle": "Choose the plan that fits your lead volume."
+    },
+    "growth": {
+      "name": "Growth",
+      "description": "Best for agencies <20 leads/week",
+      "setup": "$2,000",
+      "monthly": "$500/mo",
+      "features": [
+        "WhatsApp + Email channels",
+        "200 AI conversations/month",
+        "3 nurture sequences",
+        "Standard integrations",
+        "Email support"
+      ]
+    },
+    "scale": {
+      "name": "Scale",
+      "popular": "Most Popular",
+      "description": "Best for agencies 20-100 leads/week",
+      "setup": "$3,000",
+      "monthly": "$1,000/mo",
+      "features": [
+        "WhatsApp + Email channels",
+        "500 AI conversations/month",
+        "Unlimited nurture sequences",
+        "Custom integrations",
+        "Dedicated account manager",
+        "Priority support"
+      ]
+    },
+    "setup": "Setup",
+    "monthly": "Monthly",
+    "cta": "Get Started",
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "q1": {
+        "question": "How long does setup take?",
+        "answer": "5-7 business days from kickoff to live. We handle everything."
+      },
+      "q2": {
+        "question": "What if I need more conversations?",
+        "answer": "We offer overage pricing at $0.50 per additional conversation, or you can upgrade your plan."
+      },
+      "q3": {
+        "question": "Can I cancel anytime?",
+        "answer": "Yes, there are no long-term contracts. Cancel anytime with 30 days notice."
+      },
+      "q4": {
+        "question": "Do you work with our CRM?",
+        "answer": "Yes, we integrate with most popular CRMs including HubSpot, Salesforce, Pipedrive, and more."
+      }
+    }
+  },
+  "about": {
+    "hero": {
+      "title": "We're on a Mission to End Cold Leads",
+      "subtitle": "Every minute a lead waits costs you money. We're here to fix that."
+    },
+    "story": {
+      "title": "Our Story",
+      "p1": "We've seen agencies lose thousands of dollars because they couldn't respond fast enough. Great services, talented teams—but leads slipping through the cracks because everyone was too busy.",
+      "p2": "That's why we built LeadFlow AI. Not another tool to learn. Not another dashboard to check. A done-for-you service that works 24/7, so you never miss another opportunity."
+    },
+    "values": {
+      "title": "What We Believe",
+      "value1": {
+        "title": "Speed Wins",
+        "description": "Every minute costs money. We obsess over response time."
+      },
+      "value2": {
+        "title": "Simple Beats Complex",
+        "description": "If it's hard to use, it won't get used. We keep things simple."
+      },
+      "value3": {
+        "title": "Results, Not Features",
+        "description": "We measure success by your revenue, not our feature list."
+      }
+    },
+    "team": {
+      "title": "The Team",
+      "placeholder": "Passionate about helping agencies grow."
+    }
+  },
+  "contact": {
+    "hero": {
+      "title": "Let's Talk",
+      "subtitle": "Ready to stop losing leads? We're here to help."
+    },
+    "booking": {
+      "title": "Book a Demo",
+      "description": "Let's find a time to talk. Our AI will help you schedule in seconds."
+    },
+    "form": {
+      "title": "General Inquiries",
+      "description": "For partnerships, press, or other questions.",
+      "name": "Name",
+      "email": "Email",
+      "message": "Message",
+      "submit": "Send Message",
+      "success": "Thanks! We'll be in touch soon."
+    }
+  },
+  "booking": {
+    "title": "Book Your Demo",
+    "greeting": "Hi! I'm here to help you book a quick demo. What day works best for you this week?",
+    "placeholder": "Type your message...",
+    "send": "Send",
+    "close": "Close",
+    "success": {
+      "title": "You're all set!",
+      "description": "Check your email for the calendar invite.",
+      "addToCalendar": "Add to Calendar"
+    }
+  },
+  "footer": {
+    "tagline": "AI-powered lead response for agencies that want to close more deals.",
+    "product": "Product",
+    "company": "Company",
+    "legal": "Legal",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "copyright": "© 2024 LeadFlow AI. All rights reserved."
+  }
+}

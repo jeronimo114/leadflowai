@@ -1,0 +1,21 @@
+{
+  "name": "leadflow-showcase",
+  "version": "1.0.0",
+  "description": "LeadFlow AI Showcase Video",
+  "scripts": {
+    "start": "remotion studio",
+    "build": "remotion render ShowcaseVideo out/showcase.mp4",
+    "build-mobile": "remotion render ShowcaseVideoMobile out/showcase-mobile.mp4"
+  },
+  "dependencies": {
+    "@remotion/cli": "^4.0.414",
+    "@remotion/google-fonts": "^4.0.414",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "remotion": "^4.0.414"
+  },
+  "devDependencies": {
+    "@types/react": "18.3.1",
+    "typescript": "5.4.5"
+  }
+}

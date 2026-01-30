@@ -1,0 +1,256 @@
+{
+  "metadata": {
+    "title": "LeadFlow AI - Deja de Perder Leads. Empieza a Cerrar Ventas.",
+    "description": "Automatización de respuesta y nurturing de leads con IA para agencias y empresas B2B. Responde al instante en WhatsApp y Email."
+  },
+  "nav": {
+    "home": "Inicio",
+    "features": "Funciones",
+    "pricing": "Precios",
+    "about": "Nosotros",
+    "contact": "Contacto",
+    "bookDemo": "Agendar Demo"
+  },
+  "hero": {
+    "headline": "Deja de Perder Leads. Empieza a Cerrar Ventas.",
+    "subheadline": "La automatización con IA responde a tus leads al instante, los califica y te los entrega listos para comprar—por WhatsApp y Email.",
+    "cta": "Ver Cómo Funciona",
+    "ctaSecondary": "Ver Precios"
+  },
+  "problem": {
+    "title": "El Problema de $100K",
+    "stat": "78% de los compradores eligen al proveedor que responde primero",
+    "card1": {
+      "title": "Respuesta Lenta",
+      "description": "Los leads esperan en tu bandeja por horas (o días)"
+    },
+    "card2": {
+      "title": "Seguimiento Débil",
+      "description": "Tu equipo hace seguimiento una o dos veces, y luego pasa al siguiente"
+    },
+    "card3": {
+      "title": "Ingresos Perdidos",
+      "description": "Los prospectos se enfrían. La competencia gana."
+    }
+  },
+  "solution": {
+    "title": "Tu Máquina de Ventas 24/7",
+    "subtitle": "Cómo funciona",
+    "step1": {
+      "title": "Respuesta Instantánea",
+      "description": "Llega un lead → La IA responde en segundos"
+    },
+    "step2": {
+      "title": "Calificación Inteligente",
+      "description": "La IA califica con preguntas estratégicas"
+    },
+    "step3": {
+      "title": "Nurturing Automatizado",
+      "description": "Secuencias que mantienen el interés"
+    },
+    "step4": {
+      "title": "Entrega a Ventas",
+      "description": "Lead calificado entregado a tu equipo"
+    }
+  },
+  "whyUs": {
+    "title": "Hecho Para Ti, No Software DIY",
+    "subtitle": "Otras herramientas te venden software que tienes que aprender, configurar y gestionar tú mismo. Nosotros somos diferentes.",
+    "comparison": {
+      "others": "Otras Herramientas",
+      "us": "LeadFlow AI",
+      "point1": {
+        "others": "Meses para configurar",
+        "us": "En vivo en días"
+      },
+      "point2": {
+        "others": "Tú gestionas todo",
+        "us": "Nosotros lo gestionamos por ti"
+      },
+      "point3": {
+        "others": "Arréglalo tú mismo",
+        "us": "Soporte dedicado"
+      },
+      "point4": {
+        "others": "Dashboards complejos",
+        "us": "Reportes simples y accionables"
+      }
+    }
+  },
+  "socialProof": {
+    "title": "Confían en Nosotros Agencias en Crecimiento",
+    "testimonial1": {
+      "quote": "Pasamos de perder el 50% de los leads a agendar 3x más llamadas. El ROI fue inmediato.",
+      "author": "Director de Agencia de Marketing"
+    },
+    "testimonial2": {
+      "quote": "La configuración fue sencilla. Estuvimos en vivo en una semana y la IA maneja todo.",
+      "author": "Gerente de Ventas B2B"
+    },
+    "testimonial3": {
+      "quote": "Por fin, una solución que realmente funciona. Nuestro tiempo de respuesta pasó de horas a segundos.",
+      "author": "Fundador de Estudio de Diseño"
+    }
+  },
+  "finalCta": {
+    "title": "¿Listo para dejar de perder dinero?",
+    "subtitle": "Únete a las agencias que cierran más negocios con menos esfuerzo.",
+    "button": "Agenda Tu Demo"
+  },
+  "features": {
+    "hero": {
+      "title": "Todo lo que Necesitas para Convertir Más Leads",
+      "subtitle": "Automatización poderosa que trabaja 24/7 para que tú no tengas que hacerlo."
+    },
+    "instantResponse": {
+      "title": "Respuesta IA Instantánea",
+      "description": "Responde en <5 segundos, 24/7. Habla su idioma (EN/ES). Se siente humano, no robótico."
+    },
+    "smartQualification": {
+      "title": "Calificación Inteligente",
+      "description": "Pregunta presupuesto, tiempo, necesidades. Puntúa leads automáticamente. Filtra a los curiosos."
+    },
+    "multiChannel": {
+      "title": "Nurturing Multicanal",
+      "description": "Secuencias de WhatsApp. Seguimientos por email. Disparados por comportamiento."
+    },
+    "handoff": {
+      "title": "Entrega Sin Fricciones",
+      "description": "Notifica a tu equipo en tiempo real. Historial completo de conversación. Puntuación y resumen del lead."
+    },
+    "analytics": {
+      "title": "Dashboard de Analytics",
+      "description": "Tiempos de respuesta. Tasas de conversión. Visibilidad del pipeline."
+    },
+    "integrations": {
+      "title": "Se conecta con las herramientas que ya usas",
+      "subtitle": "WhatsApp Business, Gmail, Google Calendar, Zapier y tus CRMs favoritos."
+    }
+  },
+  "pricing": {
+    "hero": {
+      "title": "Precios Simples. Resultados Serios.",
+      "subtitle": "Elige el plan que se ajusta a tu volumen de leads."
+    },
+    "growth": {
+      "name": "Growth",
+      "description": "Ideal para agencias <20 leads/semana",
+      "setup": "$2,000",
+      "monthly": "$500/mes",
+      "features": [
+        "Canales WhatsApp + Email",
+        "200 conversaciones IA/mes",
+        "3 secuencias de nurturing",
+        "Integraciones estándar",
+        "Soporte por email"
+      ]
+    },
+    "scale": {
+      "name": "Scale",
+      "popular": "Más Popular",
+      "description": "Ideal para agencias 20-100 leads/semana",
+      "setup": "$3,000",
+      "monthly": "$1,000/mes",
+      "features": [
+        "Canales WhatsApp + Email",
+        "500 conversaciones IA/mes",
+        "Secuencias de nurturing ilimitadas",
+        "Integraciones personalizadas",
+        "Account manager dedicado",
+        "Soporte prioritario"
+      ]
+    },
+    "setup": "Configuración",
+    "monthly": "Mensual",
+    "cta": "Comenzar",
+    "faq": {
+      "title": "Preguntas Frecuentes",
+      "q1": {
+        "question": "¿Cuánto tiempo toma la configuración?",
+        "answer": "5-7 días hábiles desde el inicio hasta ir en vivo. Nosotros nos encargamos de todo."
+      },
+      "q2": {
+        "question": "¿Qué pasa si necesito más conversaciones?",
+        "answer": "Ofrecemos precio por excedente de $0.50 por conversación adicional, o puedes mejorar tu plan."
+      },
+      "q3": {
+        "question": "¿Puedo cancelar cuando quiera?",
+        "answer": "Sí, no hay contratos a largo plazo. Cancela cuando quieras con 30 días de aviso."
+      },
+      "q4": {
+        "question": "¿Trabajan con nuestro CRM?",
+        "answer": "Sí, nos integramos con los CRMs más populares incluyendo HubSpot, Salesforce, Pipedrive y más."
+      }
+    }
+  },
+  "about": {
+    "hero": {
+      "title": "Nuestra Misión es Acabar con los Leads Fríos",
+      "subtitle": "Cada minuto que un lead espera te cuesta dinero. Estamos aquí para solucionarlo."
+    },
+    "story": {
+      "title": "Nuestra Historia",
+      "p1": "Hemos visto agencias perder miles de dólares porque no pudieron responder lo suficientemente rápido. Grandes servicios, equipos talentosos—pero leads escapándose porque todos estaban muy ocupados.",
+      "p2": "Por eso construimos LeadFlow AI. No otra herramienta que aprender. No otro dashboard que revisar. Un servicio hecho para ti que trabaja 24/7, para que nunca pierdas otra oportunidad."
+    },
+    "values": {
+      "title": "En Qué Creemos",
+      "value1": {
+        "title": "La Velocidad Gana",
+        "description": "Cada minuto cuesta dinero. Nos obsesionamos con el tiempo de respuesta."
+      },
+      "value2": {
+        "title": "Simple Vence a Complejo",
+        "description": "Si es difícil de usar, no se usará. Mantenemos las cosas simples."
+      },
+      "value3": {
+        "title": "Resultados, No Funciones",
+        "description": "Medimos el éxito por tus ingresos, no por nuestra lista de funciones."
+      }
+    },
+    "team": {
+      "title": "El Equipo",
+      "placeholder": "Apasionados por ayudar a las agencias a crecer."
+    }
+  },
+  "contact": {
+    "hero": {
+      "title": "Hablemos",
+      "subtitle": "¿Listo para dejar de perder leads? Estamos aquí para ayudar."
+    },
+    "booking": {
+      "title": "Agenda una Demo",
+      "description": "Encontremos un horario para hablar. Nuestra IA te ayudará a agendar en segundos."
+    },
+    "form": {
+      "title": "Consultas Generales",
+      "description": "Para alianzas, prensa u otras preguntas.",
+      "name": "Nombre",
+      "email": "Email",
+      "message": "Mensaje",
+      "submit": "Enviar Mensaje",
+      "success": "¡Gracias! Te contactaremos pronto."
+    }
+  },
+  "booking": {
+    "title": "Agenda Tu Demo",
+    "greeting": "¡Hola! Estoy aquí para ayudarte a agendar una demo. ¿Qué día te funciona mejor esta semana?",
+    "placeholder": "Escribe tu mensaje...",
+    "send": "Enviar",
+    "close": "Cerrar",
+    "success": {
+      "title": "¡Listo!",
+      "description": "Revisa tu email para la invitación del calendario.",
+      "addToCalendar": "Agregar al Calendario"
+    }
+  },
+  "footer": {
+    "tagline": "Respuesta de leads con IA para agencias que quieren cerrar más negocios.",
+    "product": "Producto",
+    "company": "Empresa",
+    "legal": "Legal",
+    "privacy": "Política de Privacidad",
+    "terms": "Términos de Servicio",
+    "copyright": "© 2024 LeadFlow AI. Todos los derechos reservados."
+  }
+}
